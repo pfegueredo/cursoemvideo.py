@@ -1,5 +1,5 @@
-#Calcular a quantidade de tinta utilizado (em litros) para pintar uma parede, baseado nas medidas de altura e largura da parede.
-#Deve tambem calcular a área
+﻿#Calcular a quantidade de tinta utilizado (em litros) para pintar uma parede, baseado nas medidas de altura e largura da parede.
+#Deve tambem calcular a área 
 #A cada 2 metros de parede, precisa de 1 litro de tinta.
 
 largura = float(input('Largura da Parede: '))
